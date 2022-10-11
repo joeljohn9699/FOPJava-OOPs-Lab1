@@ -1,6 +1,6 @@
 # JoelJohn_IITR-GL-FSD_LabAssignments
 
-Repository to submit Lab Sessions assingments of FSD course.
+Repository to submit Lab Sessions assignments of FSD course.
 
 1. OOPS_LAB1 - Program to generate System Credentials for new hires by an IT Support Administrator. 
 2. LabAlgo2 - 
